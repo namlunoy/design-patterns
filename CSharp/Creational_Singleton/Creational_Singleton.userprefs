@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{EE91DABE-7655-4EB7-8E67-60F8126A8E33}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Creational_Singleton/GovermentEx.cs">
+    <Files>
+      <File FileName="Creational_Singleton/Program.cs" Line="9" Column="13" />
+      <File FileName="Creational_Singleton/Goverment.cs" Line="11" Column="4" />
+      <File FileName="Creational_Singleton/GovermentEx.cs" Line="4" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Creational__Singleton PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,10 @@
+/Users/hoangcong/_Projects/Xamarin/Creational_Singleton/Creational_Singleton/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/hoangcong/_Projects/Xamarin/Creational_Singleton/Creational_Singleton/bin/Debug/Creational_Singleton.exe.mdb
+/Users/hoangcong/_Projects/Xamarin/Creational_Singleton/Creational_Singleton/bin/Debug/Creational_Singleton.exe
+/Users/hoangcong/_Projects/Xamarin/Creational_Singleton/Creational_Singleton/obj/x86/Debug/Creational_Singleton.exe
+/Users/hoangcong/_Projects/Xamarin/Creational_Singleton/Creational_Singleton/obj/x86/Debug/Creational_Singleton.exe.mdb
+/Users/hoangcong/_Projects/DesignPatterns/design-patterns/CSharp/Creational_Singleton/Creational_Singleton/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/hoangcong/_Projects/DesignPatterns/design-patterns/CSharp/Creational_Singleton/Creational_Singleton/bin/Debug/Creational_Singleton.exe.mdb
+/Users/hoangcong/_Projects/DesignPatterns/design-patterns/CSharp/Creational_Singleton/Creational_Singleton/bin/Debug/Creational_Singleton.exe
+/Users/hoangcong/_Projects/DesignPatterns/design-patterns/CSharp/Creational_Singleton/Creational_Singleton/obj/x86/Debug/Creational_Singleton.exe
+/Users/hoangcong/_Projects/DesignPatterns/design-patterns/CSharp/Creational_Singleton/Creational_Singleton/obj/x86/Debug/Creational_Singleton.exe.mdb
