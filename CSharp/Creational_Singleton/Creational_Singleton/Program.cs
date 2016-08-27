@@ -2,16 +2,16 @@
 
 namespace Creational_Singleton
 {
+	class C1 { }
+	class C2 { }
 	class MainClass
 	{
 		public static void Main(string[] args)
 		{
-			Singleton t1 = Singleton.UniqueInstance;
-			Singleton t2 = Singleton.UniqueInstance;
-			if (t1 == t2)
-			{
-				Console.WriteLine("xxx");
-			}
+			var a = MySingleton<C1>.Instance;
+			var b = MySingleton<C1>.Instance;
+
+
 		}
 	}
 }

@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{EE91DABE-7655-4EB7-8E67-60F8126A8E33}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Creational_Singleton/GovermentEx.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Creational_Singleton/Program.cs">
     <Files>
-      <File FileName="Creational_Singleton/Program.cs" Line="9" Column="13" />
+      <File FileName="Creational_Singleton/Program.cs" Line="14" Column="4" />
       <File FileName="Creational_Singleton/Goverment.cs" Line="11" Column="4" />
-      <File FileName="Creational_Singleton/GovermentEx.cs" Line="4" Column="1" />
+      <File FileName="Creational_Singleton/Singleton.cs" Line="4" Column="24" />
+      <File FileName="Creational_Singleton/MySingleton.cs" Line="13" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

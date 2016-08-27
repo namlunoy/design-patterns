@@ -35,7 +35,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Goverment.cs" />
-    <Compile Include="GovermentEx.cs" />
+    <Compile Include="Singleton.cs" />
+    <Compile Include="MySingleton.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>
